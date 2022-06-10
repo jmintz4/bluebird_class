@@ -70,14 +70,7 @@ https://feederwatch.org/explore/raw-dataset-requests/
 * Aggregate with additional bird observation sources, such as the Audubon Christmas Bird Count.
 * Look into other ways to improve the spatial and temporal distribution of the data, and to improve the data balance of bluebird presence/absence without doing it artificially.
   * Selecting continuous concentrations of sites could be a use case for unsupervised learning, as opposed to relying on state boundaries to equalize site concentrations. **--Currently developing a method using DBSCAN to improve spatial distribution**   https://github.com/jmintz4/bluebird_class/tree/main/site_DBSCAN
-
-
-
-
-
-
-
-
+![DBSCAN_thin](https://user-images.githubusercontent.com/91767180/172981490-3274954c-f66a-440b-b4c3-925247d7ef94.PNG)
 
 
 
