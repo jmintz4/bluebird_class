@@ -69,7 +69,7 @@ https://feederwatch.org/explore/raw-dataset-requests/
 * Integrate gridded land cover data from the National Land Cover Database (NLCD).  This would provide an additional dimension to more clearly explore local habitat influences.
 * Aggregate with additional bird observation sources, such as the Audubon Christmas Bird Count.
 * Look into other ways to improve the spatial and temporal distribution of the data, and to improve the data balance of bluebird presence/absence without doing it artificially.
-  * Selecting continuous concentrations of sites could be a use case for unsupervised learning, as opposed to relying on state boundaries to equalize site concentrations.
+  * Selecting continuous concentrations of sites could be a use case for unsupervised learning, as opposed to relying on state boundaries to equalize site concentrations. **--Currently developing a method using DBSCAN to improve spatial distribution**
 
 
 
